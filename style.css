@@ -1,0 +1,32 @@
+* {
+    font-family: monospace;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.one {
+    -webkit-transform: rotate(90deg);
+    margin-top: 400px;
+    float: left;
+    border: dotted green 3px;
+    padding: 5px;
+}
+
+.two {
+    -webkit-transform: rotate(9deg);
+    margin-top: 400px;
+    float: left;
+    background-color: aqua;
+    padding: 5px;
+    position: fixed;
+}
+
+.three {
+    -webkit-transform: rotate(-45deg);
+    float: left;
+    background-color: silver;
+    border: double 6px black;
+    opacity: 0.5;
+    padding: 5px;
+
+}
